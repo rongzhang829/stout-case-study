@@ -1,0 +1,4 @@
+year,total_revenue,new_customer_revenue,existing_customer_growth,revenue_lost_from_attrition,existing_customer_revenue_current,existing_customer_revenue_prior,total_customers_current,total_customers_prior,new_customers,lost_customers,existing_customers,revenue_change
+2015,29036749.19,,,,,,231294,,,,,
+2016,25730943.59,17206366.9,39043.65,20551216.15,8524576.69,8485533.04,204646,231294,136891,163539,67755,-3305805.6
+2017,31417495.03,21769213.01,63857.06,16146518.63,9648282.02,9584424.96,249987,204646,173449,128108,76538,5686551.44
